@@ -10,4 +10,5 @@ const inverterArray= []
 }
 
 inverter([10,10,20,20,30])
+inverter([10,10,20,20,40])
 inverter(["a","b", "d", "e"])
